@@ -1,0 +1,17 @@
+# Environment variables — never commit secrets
+.env
+
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.venv/
+venv/
+
+# SQLite
+*.db
+*.sqlite
+*.sqlite3
+
+# Local-only notes (private prep for the portfolio walkthrough video)
+walkthrough-script.md
