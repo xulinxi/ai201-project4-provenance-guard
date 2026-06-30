@@ -14,6 +14,8 @@ rate limiting and a structured audit log. All four stretch features are also imp
 
 The full design rationale lives in **[planning.md](./planning.md)** (written before any code).
 
+**📹 Walkthrough video:** https://www.loom.com/share/9ae2d9e41b444b85983097f903eb0378 — a short tour of the system working end-to-end with a few design-decision call-outs.
+
 ---
 
 ## Table of contents
